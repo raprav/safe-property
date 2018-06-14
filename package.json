@@ -1,6 +1,6 @@
 {
   "name": "safe-property",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access nested object properties safely",
   "main": "safe-property.js",
   "scripts": {
