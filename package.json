@@ -1,0 +1,26 @@
+{
+  "name": "safe-property",
+  "version": "1.0.0",
+  "description": "Access nested object properties safely",
+  "main": "safe-property.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raprav/safe-property.git"
+  },
+  "keywords": [
+    "safe",
+    "access",
+    "property",
+    "nested",
+    "objects"
+  ],
+  "author": "raprav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raprav/safe-property/issues"
+  },
+  "homepage": "https://github.com/raprav/safe-property#readme"
+}
